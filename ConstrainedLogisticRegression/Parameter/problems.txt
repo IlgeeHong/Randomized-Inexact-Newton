@@ -1,0 +1,7 @@
+a9a
+ionosphere_scale
+mushrooms
+phishing
+sonar_scale
+splice_scale
+w8a
