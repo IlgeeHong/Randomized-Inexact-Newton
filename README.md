@@ -1,4 +1,4 @@
-# Randomized-Inexact-Newton
+# Randomized SQP
 
 This repo contains preliminary code of the following paper:
 
